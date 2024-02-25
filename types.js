@@ -1,4 +1,10 @@
-
+//strongly typed Language
+// int a = 5;
+//string b = 'Alim';
+// bool c = true;
+// object student  = {name: 'noya dhaman', id: 55};
+// int[] numbers = [12, 45, 78];
+// string[] friends = ['abul', 'babul'];
 
 
 

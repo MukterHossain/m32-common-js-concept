@@ -18,6 +18,8 @@
 // const second = [];
 
 
+// const first = [];      
+// const second = [];
 const first = [];      
 const second = first;
 // const second = 2;
@@ -30,4 +32,4 @@ else{
 
 // type coercion
 // type conversion
-// type 
+// type  casting
